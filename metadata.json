@@ -1,0 +1,6 @@
+{
+  "name": "MixLink - In-Ear Monitor LAN System",
+  "description": "Sistema de monitoramento pessoal sem fio em rede local integrado com BandLab para até 4 músicos com baixa latência e controle independente de stems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
